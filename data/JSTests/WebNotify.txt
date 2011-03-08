@@ -3,7 +3,7 @@
 
 	* Main.WikiGuest - example@your.company
 
-%INCLUDE{"%SYSTEMWEB%.WebChangesAlert"}%
+%INCLUDE{"%SYSTEMWEB%.WebNotifyHelp"}%
 
-__%MAKETEXT{"Related topics:"}%__ %SYSTEMWEB%.WebChangesAlert, %MAINWEB%.%WIKIUSERSTOPIC%, %SYSTEMWEB%.UserRegistration
+__%MAKETEXT{"Related topics:"}%__ %SYSTEMWEB%.WebNotifyHelp, %MAINWEB%.%WIKIUSERSTOPIC%, %SYSTEMWEB%.UserRegistration
 
